@@ -85,8 +85,9 @@ footer {
 #nameHeading {
     background-color: #4aaaa5;
     text-align: center;
-    padding: 10px;
-    width: 20%;
+    padding: 15px;
+    width: auto;
+    max-width: 33%;
     float: left;
     margin-left: 20%;
 }
